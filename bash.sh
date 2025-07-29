@@ -5,3 +5,4 @@ do
    echo The counter is  
    let COUNTER=+1 
 done
+echo 'The practice started'
