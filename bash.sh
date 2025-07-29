@@ -1,4 +1,4 @@
-[200~#!/bin/bash 
+#!/bin/bash 
 COUNTER=0 
 while [  -lt 10 ] 
 do 
